@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+
+    <!-- Inline CSS for Navbar -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px 0;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px 0;
+            background-color: #0056b3;
+        }
+
+            nav ul {
+                list-style-type: none;
+                padding: 0;
+                margin: 0;
+                display: flex;
+            }
+
+                nav ul li {
+                    margin: 0 20px;
+                    font-size: 18px;
+                }
+
+                    nav ul li a {
+                        color: white;
+                        text-decoration: none;
+                        padding: 10px 20px;
+                        display: inline-block;
+                        font-weight: bold;
+                    }
+
+                        nav ul li a:hover {
+                            background-color: #004085;
+                            border-radius: 5px;
+                        }
+
+                        nav ul li a.active {
+                            background-color: #003366;
+                            border-radius: 5px;
+                        }
+
+        .container {
+            padding: 30px;
+        }
+
+            .container h1 {
+                text-align: center;
+                color: #333;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/Admin/AddPharmacy" class="@(ViewData["ActivePage"] != null && (ViewData["ActivePage"] as string) == "AddPharmacy" ? "active" : "")">Add Pharmacy</a></li>
+                <li><a href="/Admin/AddSupplier" class="@(ViewData["ActivePage"] != null && (ViewData["ActivePage"] as string) == "AddSupplier" ? "active" : "")">Add Supplier</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        @RenderBody()  <!-- This is where your page content will be inserted -->
+    </div>
+</body>
+</html>
