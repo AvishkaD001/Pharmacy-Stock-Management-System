@@ -1,0 +1,130 @@
+﻿@model List<PharmacyWebApp.Models.StockModel>
+
+@{
+    ViewData["Title"] = "Stock";
+}
+
+<style>
+    /* Add the CSS here */
+    h2 {
+        text-align: center;
+        margin-bottom: 1.5rem;
+        color: #333;
+    }
+
+    .form-actions {
+        margin-bottom: 1.5rem;
+    }
+
+        .form-actions input[type="text"] {
+            padding: 0.5rem;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            width: 200px;
+        }
+
+        .form-actions input[type="submit"] {
+            padding: 0.5rem 1rem;
+            font-size: 1rem;
+            border: none;
+            border-radius: 4px;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+        }
+
+            .form-actions input[type="submit"]:hover {
+                background-color: #0056b3;
+            }
+
+        .form-actions a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+            .form-actions a:hover {
+                text-decoration: underline;
+            }
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 1.5rem;
+    }
+
+        .table th,
+        .table td {
+            padding: 0.75rem;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .table th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .table tbody tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        .table a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+            .table a:hover {
+                text-decoration: underline;
+            }
+
+    @@media (max-width: 768px) {
+        .table {
+            display: block;
+            overflow-x: auto;
+        }
+    }
+</style>
+
+<h2>Stock</h2>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Search: <input type="text" name="searchString" value="@ViewData["CurrentFilter"]" />
+            <input type="submit" value="Search" class="btn btn-default" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Drug Name</th>
+            <th>Quantity</th>
+            <th>Expiry Date</th>
+            <th>Manufacture Date</th>
+            <th>Location</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DrugName</td>
+                <td>@item.Quantity</td>
+                <td>@item.ExpiryDate.ToShortDateString()</td>
+                <td>@item.ManufactureDate.ToShortDateString()</td>
+                <td>@item.Location</td>
+                <td>@item.Price</td>
+                <td>
+                    <a asp-action="BuyDrug" asp-controller="Pharmacy" asp-route-id="@item.Id">Buy</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
