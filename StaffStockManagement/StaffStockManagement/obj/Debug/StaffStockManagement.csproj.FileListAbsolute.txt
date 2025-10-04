@@ -1,0 +1,26 @@
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\bin\Debug\StaffStockManagement.exe.config
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\bin\Debug\StaffStockManagement.exe
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\bin\Debug\StaffStockManagement.pdb
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\bin\Debug\Newtonsoft.Json.dll
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\bin\Debug\Newtonsoft.Json.xml
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.csproj.AssemblyReference.cache
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.Form1.resources
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.Properties.Resources.resources
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.csproj.GenerateResource.cache
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.csproj.CoreCompileInputs.cache
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffSto.BF25927C.Up2Date
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.exe
+D:\ICBT HND\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.pdb
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\bin\Debug\StaffStockManagement.exe.config
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\bin\Debug\StaffStockManagement.exe
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\bin\Debug\StaffStockManagement.pdb
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\bin\Debug\Newtonsoft.Json.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\bin\Debug\Newtonsoft.Json.xml
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.csproj.AssemblyReference.cache
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.Form1.resources
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.Properties.Resources.resources
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.csproj.GenerateResource.cache
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.csproj.CoreCompileInputs.cache
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffSto.BF25927C.Up2Date
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.exe
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\StaffStockManagement\StaffStockManagement\obj\Debug\StaffStockManagement.pdb
