@@ -1,0 +1,29 @@
+﻿@model IEnumerable<AdminViewWebApp.Models.Tender>
+
+@{
+    ViewData["Title"] = "Tenders";
+}
+
+<h2>Tenders</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Tender ID</th>
+            <th>Company Registration ID</th>
+            <th>Tender Details</th>
+            <th>Submission Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tender in Model)
+        {
+            <tr>
+                <td>@tender.TenderId</td>
+                <td>@tender.CompanyRegistrationId</td>
+                <td>@tender.TenderDetails</td>
+                <td>@tender.SubmissionDate.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
