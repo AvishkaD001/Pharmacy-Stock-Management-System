@@ -1,0 +1,307 @@
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\appsettings.json
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.staticwebassets.endpoints.json
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.exe
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.deps.json
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.runtimeconfig.json
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.pdb
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Humanizer.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.csproj.AssemblyReference.cache
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.AssemblyInfoInputs.cache
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.AssemblyInfo.cs
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.csproj.CoreCompileInputs.cache
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\scopedcss\bundle\PharmacyAPI.styles.css
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets\msbuild.PharmacyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets\msbuild.PharmacyAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PharmacyAPI.props
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PharmacyAPI.props
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PharmacyAPI.props
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\Pharmacy.0D494FCE.Up2Date
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\refint\PharmacyAPI.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.pdb
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.genruntimeconfig.cache
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\ref\PharmacyAPI.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\MySqlConnector.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ICBT HND\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\refint\PharmacyAPI.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.pdb
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\appsettings.json
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.staticwebassets.endpoints.json
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.exe
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.deps.json
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.runtimeconfig.json
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\PharmacyAPI.pdb
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\AutoMapper.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Humanizer.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\MySqlConnector.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.csproj.AssemblyReference.cache
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.AssemblyInfoInputs.cache
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.AssemblyInfo.cs
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.csproj.CoreCompileInputs.cache
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\scopedcss\bundle\PharmacyAPI.styles.css
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets\msbuild.PharmacyAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets\msbuild.PharmacyAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PharmacyAPI.props
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PharmacyAPI.props
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PharmacyAPI.props
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\Pharmacy.0D494FCE.Up2Date
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\PharmacyAPI.genruntimeconfig.cache
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\obj\Debug\net8.0\ref\PharmacyAPI.dll
+E:\ICBT HND\4 sem\My Assigement\SOC\My\SOCManagementsystem\PharmacyAPI\PharmacyAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
